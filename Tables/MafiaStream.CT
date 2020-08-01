@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="29">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Gun1"</Description>
+      <LastState Value="268374015" RealAddress="0DEC9BF4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0DEC9BF4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Health1"</Description>
+      <LastState Value="-1.171118976E33" RealAddress="0DEC9D94"/>
+      <VariableType>Float</VariableType>
+      <Address>0DEC9D94</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Gun2"</Description>
+      <LastState Value="0" RealAddress="197172B4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>197172B4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Health2"</Description>
+      <LastState Value="0" RealAddress="19717454"/>
+      <VariableType>Float</VariableType>
+      <Address>19717454</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Gun3"</Description>
+      <LastState Value="0" RealAddress="194339BC"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>194339BC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Health3"</Description>
+      <LastState Value="0" RealAddress="19433B5C"/>
+      <VariableType>Float</VariableType>
+      <Address>19433B5C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"Gun4"</Description>
+      <LastState Value="267" RealAddress="0CE403E4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0CE403E4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"Health4"</Description>
+      <LastState Value="1.401298464E-45" RealAddress="0CE40584"/>
+      <VariableType>Float</VariableType>
+      <Address>0CE40584</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="0" RealAddress="233AAD2C"/>
+      <VariableType>Float</VariableType>
+      <Address>"Game.exe"+00246D4C</Address>
+      <Offsets>
+        <Offset>644</Offset>
+        <Offset>E4</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

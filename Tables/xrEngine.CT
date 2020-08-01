@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="29">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Health1"</Description>
+      <VariableType>Float</VariableType>
+      <Address>381DF964</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Health2"</Description>
+      <VariableType>Float</VariableType>
+      <Address>37F52654</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Health3"</Description>
+      <VariableType>Float</VariableType>
+      <Address>32FB4F04</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"Health4"</Description>
+      <VariableType>Float</VariableType>
+      <Address>32F87CA4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"Health5"</Description>
+      <VariableType>Float</VariableType>
+      <Address>37C431D4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"pointerscan result"</Description>
+      <VariableType>Float</VariableType>
+      <Address>"xrGame.dll"+0064E2C0</Address>
+      <Offsets>
+        <Offset>4</Offset>
+        <Offset>200</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
